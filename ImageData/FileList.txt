@@ -1,0 +1,14 @@
+9 6
+../ImageData/left/left01.jpg
+../ImageData/left/left02.jpg
+../ImageData/left/left03.jpg
+../ImageData/left/left04.jpg
+../ImageData/left/left05.jpg
+../ImageData/left/left06.jpg
+../ImageData/left/left07.jpg
+../ImageData/left/left08.jpg
+../ImageData/left/left09.jpg
+../ImageData/left/left11.jpg
+../ImageData/left/left12.jpg
+../ImageData/left/left13.jpg
+../ImageData/left/left14.jpg
