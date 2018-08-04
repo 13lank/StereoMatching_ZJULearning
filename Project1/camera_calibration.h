@@ -18,4 +18,5 @@ public:
 	void loadSettings(const char *settingFile);
 	void solveCalibration(void);
 	bool calibrate(Mat *srcImg, Mat *dstImg);
+	void testCalibration(void);
 };
